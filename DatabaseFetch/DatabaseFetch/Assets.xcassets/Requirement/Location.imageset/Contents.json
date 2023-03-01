@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "53c9b472dae439acad75a98445964f1d--app-design-location.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

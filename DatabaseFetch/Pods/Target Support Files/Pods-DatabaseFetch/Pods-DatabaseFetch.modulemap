@@ -1,0 +1,6 @@
+framework module Pods_DatabaseFetch {
+  umbrella header "Pods-DatabaseFetch-umbrella.h"
+
+  export *
+  module * { export * }
+}

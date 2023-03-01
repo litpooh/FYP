@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "wheelie-bin-tied-pouch-simple-vector-modern-icon-design-illustration-wheelie-bin-tied-pouch-simple-vector-modern-icon-design-169185461-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

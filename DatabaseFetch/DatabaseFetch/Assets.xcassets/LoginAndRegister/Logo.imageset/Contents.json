@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "people-are-holding-recycling-bins-flat-design-style-minimal-illustration-vector-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
